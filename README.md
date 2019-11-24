@@ -1,6 +1,6 @@
-# React + TS JAM Boilerplate
+# React JAM Boilerplate
 
-An opinionated boilerplate for JAMstack React + Typescript projects including the following:
+An opinionated boilerplate for JAMstack React projects including the following:
 
 - Webpack
 - React w/ Next.js
@@ -8,7 +8,15 @@ An opinionated boilerplate for JAMstack React + Typescript projects including th
 - Immutable
 - GraphQL
 - RxJS
-- Typescript, decorators enabled (S2)
+- ECMA proposals
+  - Class field declarations (S3)  
+    https://github.com/tc39/proposal-class-fields
+  - Static class features (S3)  
+    https://github.com/tc39/proposal-static-class-features
+  - Optional Chaining (S3)  
+    https://github.com/tc39/proposal-optional-chaining
+  - Decorators (S2)  
+    https://github.com/tc39/proposal-decorators
 - JSON parse for large object literals  
   https://github.com/nd-02110114/babel-plugin-object-to-json-parse
 - SCSS + CSS modules
