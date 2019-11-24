@@ -27,10 +27,12 @@ An opinionated boilerplate for JAMstack React projects including the following:
 - Images optimization
 - Lazy loading
 - A11y linting
+- SEO friendly pages
 - Unit & Integration tests
 - E2E tests
 - Visual regression tests
-- SEO friendly pages
+- Code coverage reports
+- Bundle analyzer
 - Lighthouse audits
 - Polyfills
 - IE 9+
