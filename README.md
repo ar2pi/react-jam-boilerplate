@@ -17,11 +17,14 @@ An opinionated boilerplate for JAMstack React projects including the following:
     https://github.com/tc39/proposal-optional-chaining
   - Decorators (S2)  
     https://github.com/tc39/proposal-decorators
+- Tree shaking
 - JSON parse for large object literals  
   https://github.com/nd-02110114/babel-plugin-object-to-json-parse
 - SCSS + CSS modules
 - Critical CSS extraction
-- Optmized images
+- Responsive images
+- SVG & small images inlining
+- Images optimization
 - Lazy loading
 - A11y linting
 - Unit & Integration tests
