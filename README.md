@@ -9,11 +9,14 @@ An opinionated boilerplate for JAMstack React + Typescript projects including th
 - GraphQL
 - RxJS
 - Typescript, decorators enabled (S2)
+- Tree shaking
 - JSON parse for large object literals  
   https://github.com/nd-02110114/babel-plugin-object-to-json-parse
 - SCSS + CSS modules
 - Critical CSS extraction
-- Optmized images
+- Responsive images
+- SVG & small images inlining
+- Images optimization
 - Lazy loading
 - A11y linting
 - Unit & Integration tests
