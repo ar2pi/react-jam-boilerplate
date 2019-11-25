@@ -4,10 +4,9 @@ An opinionated boilerplate for JAMstack React projects including the following:
 
 - Webpack
 - React w/ Next.js
-- Redux
-- Immutable
+- Flow
+- Redux w/ redux-sagas
 - GraphQL
-- RxJS
 - ECMA proposals
   - Class field declarations (S3)  
     https://github.com/tc39/proposal-class-fields
@@ -17,6 +16,7 @@ An opinionated boilerplate for JAMstack React projects including the following:
     https://github.com/tc39/proposal-optional-chaining
   - Decorators (S2)  
     https://github.com/tc39/proposal-decorators
+- Code splitting
 - Tree shaking
 - JSON parse for large object literals  
   https://github.com/nd-02110114/babel-plugin-object-to-json-parse
@@ -25,15 +25,23 @@ An opinionated boilerplate for JAMstack React projects including the following:
 - Responsive images
 - SVG & small images inlining
 - Images optimization
-- Lazy loading
-- A11y linting
-- SEO friendly pages
+- Lazy loading images
+- Offline first
+- Customizable service worker
+- Push notifications
 - Unit & Integration tests
 - E2E tests
 - Visual regression tests
 - Code coverage reports
 - Bundle analyzer
 - Lighthouse audits
+- Favicon generator
+- Manifest.json
+- Sitemap.xml
+- Robots.txt
+- Google analytics tracking
+- SEO meta tags, OpenGraph and JSON+LD support
+- A11y linting
 - Polyfills
 - IE 9+
 - Git hooks
